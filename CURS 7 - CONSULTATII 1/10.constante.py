@@ -1,0 +1,8 @@
+
+variabila = 10
+
+CONSTANTA = 10
+print(CONSTANTA)
+
+CONSTANTA = 321312
+print(CONSTANTA)
